@@ -47,7 +47,7 @@ The dashboard was developed as per a given requirements document and follows bes
 - KPI Cards & slicers
 
 ## Screenshot:
-![Customer Analysis](screenshots/report2_customer_analysis.png)
+![Customer Analysis](https://github.com/wince0727/PowerBI-Sales-Returns-Analysis-Dashboard/blob/main/ScreenShorts/Report%20p2.png)
 
 
 ### Report 3: Time & Regional Analysis
