@@ -36,7 +36,7 @@ The dashboard was developed as per a given requirements document and follows bes
 - Interactive slicers
 
 ## Screenshot:
-![Sales Overview](screenshots/report1_sales_overview.png)
+![Sales Overview](https://github.com/wince0727/PowerBI-Sales-Returns-Analysis-Dashboard/blob/main/ScreenShorts/Report%20p1.png)
 
 
 ### Report 2: Customer & Sales Analysis
