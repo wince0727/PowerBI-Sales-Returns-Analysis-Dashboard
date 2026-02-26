@@ -60,7 +60,7 @@ The dashboard was developed as per a given requirements document and follows bes
 - Quantity Sold by City (Map)
 
 ## Screenshot:
-![Time & Regional Analysis](screenshots/report3_time_regional_analysis.png)
+![Time & Regional Analysis](https://github.com/wince0727/PowerBI-Sales-Returns-Analysis-Dashboard/blob/main/ScreenShorts/Report%20p3.png)
 
 
 ### Report 4: Returns Analysis
