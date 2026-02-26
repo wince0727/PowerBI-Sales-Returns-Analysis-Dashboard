@@ -75,7 +75,8 @@ The dashboard was developed as per a given requirements document and follows bes
 
 
 ## Key DAX Measures Used
-```DAX
+
+DAX
 Total Sales = SUM(Sales[Sales])
 
 Total Profit = SUM(Sales[Profit])
