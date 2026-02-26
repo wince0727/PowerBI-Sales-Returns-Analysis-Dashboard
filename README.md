@@ -36,7 +36,7 @@ The dashboard was developed as per a given requirements document and follows bes
 - Interactive slicers
 
 ## Screenshot:
-![Sales Overview](https://github.com/wince0727/PowerBI-Sales-Returns-Analysis-Dashboard/blob/main/ScreenShorts/Report%20p1.png)
+![Sales Overview](https://raw.githubusercontent.com/wince0727/PowerBI-Sales-Returns-Analysis-Dashboard/main/ScreenShorts/Report%20p1.png)
 
 
 ### Report 2: Customer & Sales Analysis
@@ -47,7 +47,7 @@ The dashboard was developed as per a given requirements document and follows bes
 - KPI Cards & slicers
 
 ## Screenshot:
-![Customer Analysis](https://github.com/wince0727/PowerBI-Sales-Returns-Analysis-Dashboard/blob/main/ScreenShorts/Report%20p2.png)
+![Customer Analysis](https://raw.githubusercontent.com/wince0727/PowerBI-Sales-Returns-Analysis-Dashboard/main/ScreenShorts/Report%20p2.png)
 
 
 ### Report 3: Time & Regional Analysis
@@ -60,7 +60,7 @@ The dashboard was developed as per a given requirements document and follows bes
 - Quantity Sold by City (Map)
 
 ## Screenshot:
-![Time & Regional Analysis](https://github.com/wince0727/PowerBI-Sales-Returns-Analysis-Dashboard/blob/main/ScreenShorts/Report%20p3.png)
+![Time & Regional Analysis](https://raw.githubusercontent.com/wince0727/PowerBI-Sales-Returns-Analysis-Dashboard/main/ScreenShorts/Report%20p3.png)
 
 
 ### Report 4: Returns Analysis
@@ -71,7 +71,7 @@ The dashboard was developed as per a given requirements document and follows bes
 - Filters for date, category, region, city
 
 ## Screenshot:
-![Returns Analysis](https://github.com/wince0727/PowerBI-Sales-Returns-Analysis-Dashboard/blob/main/ScreenShorts/Report%20p4.png)
+![Returns Analysis](https://raw.githubusercontent.com/wince0727/PowerBI-Sales-Returns-Analysis-Dashboard/main/ScreenShorts/Report%20p4.png)
 
 
 ## Key DAX Measures Used
