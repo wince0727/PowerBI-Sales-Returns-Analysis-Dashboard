@@ -71,7 +71,7 @@ The dashboard was developed as per a given requirements document and follows bes
 - Filters for date, category, region, city
 
 ## Screenshot:
-![Returns Analysis](screenshots/report4_returns_analysis.png)
+![Returns Analysis](https://github.com/wince0727/PowerBI-Sales-Returns-Analysis-Dashboard/blob/main/ScreenShorts/Report%20p4.png)
 
 
 ## Key DAX Measures Used
